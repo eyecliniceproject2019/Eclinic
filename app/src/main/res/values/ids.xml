@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="setup_fullname" type="id" />
+    <item name="setup_bloodgroup" type="id" />
+    <item name="setup_address" type="id" />
+    <item name="setup_telno" type="id" />
+    <item name="setup_save" type="id" />
+    <item name="shop1" type="id" />
+    <item name="name" type="id" />
+    <item name="description" type="id" />
+</resources>

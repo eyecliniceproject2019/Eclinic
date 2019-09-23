@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "650339296226",
+    "firebase_url": "https://eyeclinic-f4448.firebaseio.com",
+    "project_id": "eyeclinic-f4448",
+    "storage_bucket": "eyeclinic-f4448.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650339296226:android:d5e4d1e07f0e1e9cd18fbb",
+        "android_client_info": {
+          "package_name": "com.example.eyeclinic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650339296226-s52kb78rhe8j1tntv6stt3fsbb5n4a52.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eyeclinic",
+            "certificate_hash": "b518ac42b5777d7e423f9b024fa53249c7298ecb"
+          }
+        },
+        {
+          "client_id": "650339296226-ge4h7jqi853q8pqlnv47pnogm82offo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_SgHq2rukEMYu2mCXndJffz6U4ivpvMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650339296226-ge4h7jqi853q8pqlnv47pnogm82offo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
